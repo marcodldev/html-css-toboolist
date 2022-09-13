@@ -1,21 +1,21 @@
 /* Reset browser impostazioni di default */
 
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
- }
+}
 
 /* Css intestazione */
 
- header {
+header {
 
     width: 90%;
     margin: auto;
     margin-top: 20px;
     size: 50px;
-       
- }
+
+}
 
 .logo {
 
@@ -27,13 +27,13 @@
 
 
 /* CSS Corpo della pagina */
- 
+
 main {
     background-color: #e7e7e75e;
-    padding:100px;
+    padding: 100px;
 }
 
-.content{
+.content {
     width: 50%;
     background-color: #ffffff;
     margin: auto;
@@ -70,18 +70,18 @@ main {
     border-radius: 1%;
     margin-top: 47px;
     margin-bottom: -41px;
+    padding-bottom: 22px;
+    padding-top: 12px;
 
 }
 
 .titles {
-   font-family: ;
+    font-family: ;
 }
 
-.text {
+.text {}
 
-}
-
-.check{
+.check {
 
     border: 1px solid green;
     padding: 3px;
@@ -101,27 +101,27 @@ main {
 
 }
 
-ul{
+ul {
     list-style: none;
 }
 
-li{
+li {
 
     margin-top: 9px;
-    
+
 }
 
 .button {
-   
+
     display: inline-block;
-border: none;
-color: white;
-cursor: pointer;
-padding: 3px 10px;
-border-radius: 5px;
-text-align: center;
-text-decoration: none;
-font-size: 12px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 3px 10px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
 }
 
 .buttonblue {
@@ -132,7 +132,7 @@ font-size: 12px;
 
 .buttonpurple {
 
-    background-color:  #9C72E4
+    background-color: #9C72E4
 }
 
 .buttongreen {
@@ -142,4 +142,12 @@ font-size: 12px;
 
 .buttonorange {
     background-color: #F29E33;
+}
+
+.buttonpink {
+    background-color: #D863A1;
+}
+
+.buttonlime {
+    background-color: #B0C926;
 }
