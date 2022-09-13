@@ -28,3 +28,118 @@
 
 /* CSS Corpo della pagina */
  
+main {
+    background-color: #e7e7e75e;
+    padding:100px;
+}
+
+.content{
+    width: 50%;
+    background-color: #ffffff;
+    margin: auto;
+    padding: 10px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    margin-top: -66px;
+    margin-bottom: -41px;
+}
+
+.blue {
+
+    background-color: #58a6ff;
+    border-radius: 15%;
+    padding: 4px;
+    font-weight: 900;
+    margin-left: 40px;
+}
+
+.white {
+    border-color: grey;
+    border-radius: 15%;
+    padding: 4px;
+    color: darkgrey;
+    font-weight: 900;
+}
+
+.content2 {
+
+    width: 50%;
+    background-color: #ffffff;
+    margin: auto;
+    padding-left: 49px;
+    border-radius: 1%;
+    margin-top: 47px;
+    margin-bottom: -41px;
+
+}
+
+.titles {
+   font-family: ;
+}
+
+.text {
+
+}
+
+.check{
+
+    border: 1px solid green;
+    padding: 3px;
+    color: greenyellow;
+    border-radius: 50%;
+    font-weight: bold;
+}
+
+
+.cross {
+
+    border: 1px solid rgb(255, 0, 0);
+    padding: 3px;
+    color: red;
+    border-radius: 50%;
+    font-weight: bold;
+
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+
+    margin-top: 9px;
+    
+}
+
+.button {
+   
+    display: inline-block;
+border: none;
+color: white;
+cursor: pointer;
+padding: 3px 10px;
+border-radius: 5px;
+text-align: center;
+text-decoration: none;
+font-size: 12px;
+}
+
+.buttonblue {
+
+    background-color: #58a6ff;
+
+}
+
+.buttonpurple {
+
+    background-color:  #9C72E4
+}
+
+.buttongreen {
+
+    background-color: #64C0A9;
+}
+
+.buttonorange {
+    background-color: #F29E33;
+}
